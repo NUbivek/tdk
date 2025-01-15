@@ -599,7 +599,7 @@ function createMarketCoverageChart() {
                     enabled: true
                 },
                 datalabels: {
-                    display: false
+                    display: true
                 }
             },
             animation: {
