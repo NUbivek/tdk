@@ -961,6 +961,10 @@ function createRevenueStreamsChart() {
                     display: false
                 }
             },
+             datalabels: {
+                    display: false
+                }
+            },
             scales: {
                 x: {
                     ticks: { color: colors.text },
